@@ -11,3 +11,4 @@
 8. Violaciones al principio ***Interface Segregation***
 9. Principio ***Dependency Inversion***
 10. Violaciones al principio ***Dependency Inversion***
+11. 
