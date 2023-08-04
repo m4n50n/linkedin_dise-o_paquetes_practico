@@ -1,3 +1,2 @@
 ### 05. Principios de acoplamiento - Dependencias estables
-
-En definitiva, 
+Las dependencias estables, se refieren a la idea de que las partes más estables de un sistema de software (es decir, aquellas partes que cambian con menos frecuencia) deberían ser también las más independientes. En otras palabras, las partes de un sistema que son propensas a cambiar con frecuencia (y, por lo tanto, son menos estables) deberían depender de las partes que son más estables, y no al revés. Esto puede minimizar la propagación de cambios en todo el sistema y hacer que el software sea más fácil de mantener.
