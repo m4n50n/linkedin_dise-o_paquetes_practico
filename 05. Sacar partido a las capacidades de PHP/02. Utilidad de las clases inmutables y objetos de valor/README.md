@@ -1,0 +1,2 @@
+#### Utilidad de las clases inmutables y objetos de valor
+La Inmutabilidad lo que hace es asegurarnos que un elemento va s seguir siendo igual pase por donde pase; pero para entender realmente cuál es la ventaja de la Inmutabilidad hay que conocer primero los efectos colaterales.
